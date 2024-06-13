@@ -1,0 +1,2 @@
+STUDENT NAME 	 CLASS 	 ROLL NUMBER
+Farhan khan 	3		3
